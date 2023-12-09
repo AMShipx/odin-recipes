@@ -27,3 +27,18 @@ div {
     font-size: 12px;
     text-align: justify;
 }
+
+ul {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-align: left;
+    font-weight: bold;
+}
+ol {
+    color: darkblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-align: ce;
+    font-weight: bold;
+}
