@@ -27,6 +27,13 @@ li {
     margin-top: 10px;
 }
 
+.contenedor div {
+    padding: 16px;
+    margin: 8px;
+    display: flex;
+    border: 3px blueviolet;
+    display: flex;
+ }
 
 div {
     color: darkblue;
@@ -36,4 +43,11 @@ div {
     border: 2px solid red;
     padding: 10px;
     margin-right: 300px;
+}
+
+.flex {
+    flex: 1;
+    border: 4px beige;
+    background: peachpuff;
+   
 }
