@@ -1,6 +1,7 @@
 
 body {
     background-color: lightblue;
+    border: 2px solid red;
 }
 
 h1 {
@@ -9,14 +10,21 @@ h1 {
     font-size: 40px;
     text-align: center;
     font-weight: bold;
+    border: 2px solid rgb(140, 185, 33);
+    padding: 20px;
+    background-color: rgb(92, 218, 165);
+    margin: auto;
 }
 
 li {
     color: darkblue;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
-    text-align: left;
+    text-align: center;
     font-weight: bold;
+    border: 2px solid rgb(38, 211, 81);
+    padding: 10px;
+    margin-top: 10px;
 }
 
 
@@ -25,4 +33,7 @@ div {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 12px;
     text-align: justify;
+    border: 2px solid red;
+    padding: 10px;
+    margin-right: 300px;
 }
